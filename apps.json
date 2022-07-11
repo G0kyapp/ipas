@@ -5,15 +5,15 @@
 	},
 	"Tweaked": [{
 		"name": "Cercube",
-		"version": "16.42.3",
-		"down": "https://miro92.com/repo/depictions/com.miro.uyou/iPA/YouTube_16.42.3_uYou_2.1.ipa",
+		"version": "17.26.2",
+		"down": "https://sebas.live/ipa/YouTube_17.26.2_1657501774.ipa",
 		"category": "Tweaked Apps",
-		"description": "True ad-less YouTube...",
+		"description": "Cercube no solo le brinda las funciones que faltan en YouTube, sino que también le brinda control total sobre la aplicación.",
 		"bundleID": "com.google.ios.youtube",
 		"appstore": "com.google.ios.youtube",
 		"contact": {
 			"web": "https://repo.twickd.com",
-			"Autor": "https://twitter.com/freemanrepo?lang=es"
+			"twitter": "https://twitter.com/freemanrepo?lang=es"
 		}
 	}, {
 		"name": "iPogo",
