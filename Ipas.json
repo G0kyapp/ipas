@@ -29,10 +29,10 @@
           "downloadURL": "https://www.dropbox.com/scl/fi/2xch031tnz68xqor9pk0d/Facebook.ipa?rlkey=pjvq27zzz86m4t1rk717pvu3b&st=b3fj8o74&dl=1",
           "size": 168500000,
           "version": "513.1.0",
-          "buildVersion": null,
+          "buildVersion": 513,
           "date": "2025-05-17T22:32:00-06:00",
-          "localizedDescription": null,
-          "minOSVersion": null
+          "localizedDescription": "Facebook",
+          "minOSVersion": "17.0"
         }
       ],
       "appPermissions": {
