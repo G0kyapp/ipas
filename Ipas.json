@@ -29,10 +29,10 @@
           "downloadURL": "https://www.dropbox.com/scl/fi/2xch031tnz68xqor9pk0d/Facebook.ipa?rlkey=pjvq27zzz86m4t1rk717pvu3b&st=b3fj8o74&dl=1",
           "size": 168500000,
           "version": "513.1.0",
-          "buildVersion": 513,
+          "buildVersion": null,
           "date": "2025-05-17T22:32:00-06:00",
-          "localizedDescription": "Facebook",
-          "minOSVersion": "17.0"
+          "localizedDescription": null,
+          "minOSVersion": null
         }
       ],
       "appPermissions": {
@@ -61,5 +61,17 @@
       "patreon": {}
     }
   ],
-  "news": []
+  "news": [
+    {
+      "title": "New Feature Announcement",
+      "identifier": "news_3p0ck4e467",
+      "caption": "Introducing a new feature in AltStore!",
+      "date": "2025-05-17T17:03",
+      "tintColor": "#6156e2",
+      "imageURL": "https://i.imgur.com/LVwFwlF.png",
+      "notify": true,
+      "url": "https://example.com/new_feature_details",
+      "appID": null
+    }
+  ]
 }
