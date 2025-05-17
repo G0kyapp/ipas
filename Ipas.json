@@ -1,0 +1,65 @@
+{
+  "name": "Ipas",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://miro.medium.com/v2/resize:fit:493/1*9Sks6z61h9C_mUJNBbb3iw.png",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "headerURL": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25345068/STK468_APPLE_ANTITRUST_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "apps": [
+    {
+      "name": "Facebook",
+      "bundleIdentifier": "com.facebook.Facebook",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "Facebook Wolf\n\nDonde personas reales despiertan tu curiosidad. Ya sea que estés buscando ropa de segunda mano, mostrando un reel a ese grupo que lo tiene o compartiendo risas con imágenes divertidas reinventadas por IA, Facebook te ayuda a hacer que las cosas sucedan como ninguna otra red social.\n\nExplora y amplía tus intereses:\n\nPídale a Meta AI que busque temas que le interesen y obtenga resultados instantáneos más interactivos que solo texto.\nCompra en Marketplace para encontrar ofertas y joyas ocultas para cultivar tus aficiones.\nPersonaliza tu Feed para ver más de lo que te gusta y menos de lo que no.\nSumérgete en los reels y videos para obtener instrucciones o entretenimiento rápido.\nConéctese con personas y comunidades:\n\nÚnase a grupos para aprender consejos de personas reales que han estado allí y lo han hecho.\nActiva compartir en Instagram para ahorrar tiempo\nEnvía mensajes privados con publicaciones relacionadas que solo tu mejor amiga recibirá o que sean tendencia de Reels de la que todos estén hablando.\nComparte tu mundo:\n\nUtilice la IA generativa para deleitar a sus amigos con imágenes personalizadas o simplemente obtener ayuda para escribir publicaciones.\nPersonaliza tu perfil para elegir cómo te muestras y quién ve tus publicaciones.\nCrea reels sin esfuerzo a partir de plantillas de tendencia o muestra tu creatividad con un conjunto completo de herramientas de edición.\nCaptura momentos sobre la marcha con historias\nEs posible que algunas funciones no estén disponibles en su país o región.",
+      "iconURL": "https://i.imgur.com/Fevq7cT.png",
+      "tintColor": "#0c64fc",
+      "category": "other",
+      "screenshots": [
+        "https://i.imgur.com/1rtdHL7.png",
+        "https://i.imgur.com/h9oB9HX.png",
+        "https://i.imgur.com/WKaTZt3.png"
+      ],
+      "versions": [
+        {
+          "downloadURL": "https://www.dropbox.com/scl/fi/2xch031tnz68xqor9pk0d/Facebook.ipa?rlkey=pjvq27zzz86m4t1rk717pvu3b&st=b3fj8o74&dl=1",
+          "size": 168500000,
+          "version": "513.1.0",
+          "buildVersion": null,
+          "date": "2025-05-17T22:32:00-06:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://facebook.com",
+          "NSAppleMusicUsageDescription": "Facebook uses access to your media library to do things like help you play music and other audio from your device, and to save audio to your device.",
+          "NSBluetoothAlwaysUsageDescription": "Facebook uses Bluetooth so you can do things like find and connect to devices and cast videos to TV.",
+          "NSBluetoothPeripheralUsageDescription": "Facebook uses Bluetooth so you can do things like find and connect to devices and cast videos to TV.",
+          "NSCalendarsFullAccessUsageDescription": "This will let Facebook sync events you're hosting or attending to your calendar.",
+          "NSCalendarsUsageDescription": "This will let Facebook sync events you're hosting or attending to your calendar.",
+          "NSCameraUsageDescription": "Facebook uses access to your camera to do things like help you take and share photos, record videos, and use visual effects.\n\nYou can always change this in your device settings.",
+          "NSContactsUsageDescription": "Allowing access to your address book helps you see the contacts you can choose to add and helps us provide a better service.",
+          "NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Facebook.",
+          "NSLocalNetworkUsageDescription": "Facebook uses your local network so you can do things like find and connect to devices and cast videos to TV.",
+          "NSLocationWhenInUseUsageDescription": "Facebook uses this to provide more relevant and personalized experiences, like helping you check-in, find local events and get better ads.",
+          "NSMicrophoneUsageDescription": "Facebook uses access to your microphone to do things like help you record audio, identify songs, search with your voice and use audio effects.\n\nYou can always change this in your device settings.",
+          "NSMotionUsageDescription": "Facebook uses this to provide more relevant and personalized experiences.",
+          "NSPhotoLibraryAddUsageDescription": "Facebook uses access to your photos to do things like help you save images to your device, share and apply visual effects to your photos and videos, and to suggest photos and videos to share.",
+          "NSPhotoLibraryUsageDescription": "Facebook uses access to your photos to do things like help you share and apply visual effects to your photos and videos, and to suggest photos and videos to share.",
+          "NSPrincipalClass": "FBApplication",
+          "NSSiriUsageDescription": "This will let Siri help you look for photos on Facebook",
+          "NSUserTrackingUsageDescription": "This allows Facebook to provide you with a better ads experience."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
