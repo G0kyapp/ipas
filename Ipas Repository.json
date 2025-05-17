@@ -1,0 +1,87 @@
+{
+  "name": "Ipas Repository",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://miro.medium.com/v2/resize:fit:493/1*9Sks6z61h9C_mUJNBbb3iw.png",
+  "website": "https://github.com/khcrysalis/Feather",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "Facebook",
+      "bundleIdentifier": "com.facebook.Facebook",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/WeZEm7m.png",
+      "tintColor": "#0c64fc",
+      "category": "other",
+      "screenshots": [
+        "https://i.imgur.com/CLCfQBj.png",
+        "https://i.imgur.com/ITpC4ye.png",
+        "https://i.imgur.com/y3gTqiP.png"
+      ],
+      "versions": [
+        {
+          "downloadURL": "https://www.dropbox.com/scl/fi/2xch031tnz68xqor9pk0d/Facebook.ipa?rlkey=pjvq27zzz86m4t1rk717pvu3b&st=cdtlyfj2&dl=1",
+          "size": 168500000,
+          "version": "513.1.0",
+          "buildVersion": null,
+          "date": "2025-05-18T05:13:00-06:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://facebook.com",
+          "NSAppleMusicUsageDescription": "Facebook uses access to your media library to do things like help you play music and other audio from your device, and to save audio to your device.",
+          "NSBluetoothAlwaysUsageDescription": "Facebook uses Bluetooth so you can do things like find and connect to devices and cast videos to TV.",
+          "NSBluetoothPeripheralUsageDescription": "Facebook uses Bluetooth so you can do things like find and connect to devices and cast videos to TV.",
+          "NSCalendarsFullAccessUsageDescription": "This will let Facebook sync events you're hosting or attending to your calendar.",
+          "NSCalendarsUsageDescription": "This will let Facebook sync events you're hosting or attending to your calendar.",
+          "NSCameraUsageDescription": "Facebook uses access to your camera to do things like help you take and share photos, record videos, and use visual effects.\n\nYou can always change this in your device settings.",
+          "NSContactsUsageDescription": "Allowing access to your address book helps you see the contacts you can choose to add and helps us provide a better service.",
+          "NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Facebook.",
+          "NSLocalNetworkUsageDescription": "Facebook uses your local network so you can do things like find and connect to devices and cast videos to TV.",
+          "NSLocationWhenInUseUsageDescription": "Facebook uses this to provide more relevant and personalized experiences, like helping you check-in, find local events and get better ads.",
+          "NSMicrophoneUsageDescription": "Facebook uses access to your microphone to do things like help you record audio, identify songs, search with your voice and use audio effects.\n\nYou can always change this in your device settings.",
+          "NSMotionUsageDescription": "Facebook uses this to provide more relevant and personalized experiences.",
+          "NSPhotoLibraryAddUsageDescription": "Facebook uses access to your photos to do things like help you save images to your device, share and apply visual effects to your photos and videos, and to suggest photos and videos to share.",
+          "NSPhotoLibraryUsageDescription": "Facebook uses access to your photos to do things like help you share and apply visual effects to your photos and videos, and to suggest photos and videos to share.",
+          "NSPrincipalClass": "FBApplication",
+          "NSSiriUsageDescription": "This will let Siri help you look for photos on Facebook",
+          "NSUserTrackingUsageDescription": "This allows Facebook to provide you with a better ads experience."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": [
+    {
+      "title": "Donate",
+      "identifier": "feather-donate",
+      "caption": "Feather is a free project and is not made possible without my sponsors! Feel free to donate, it helps keep me motivated in making new updates for this app, and thank you everyone.",
+      "date": "2025-02-03T18:00",
+      "tintColor": "#848ef9",
+      "imageURL": "https://github.com/khcrysalis/Feather/blob/main/Images/donate.png?raw=true",
+      "notify": false,
+      "url": "https://github.com/sponsors/khcrysalis",
+      "appID": null
+    },
+    {
+      "title": "About Feather",
+      "identifier": "feather-about",
+      "caption": "Feather allows you to use an Apple Developer Account to sign and install applications on device without needing a computer on stock iOS versions, while allowing easy management with its applications.\n\nDue to limitations, it's hard to tell if the application is actually installed, so you will need to keep track of whats on your device. This is an entirely stock application and uses built-in features to be able to do this!",
+      "date": "2025-02-02T18:00",
+      "tintColor": "#8A28F7",
+      "imageURL": "https://media.idownloadblog.com/wp-content/uploads/2024/08/Feather-on-device-signing-UI-app.jpg",
+      "notify": true,
+      "url": "https://github.com/khcrysalis/feather",
+      "appID": null
+    }
+  ]
+}
